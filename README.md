@@ -1,12 +1,25 @@
 ## What and Where are the World's Oldest Businesses
 
-# Business Data Analysis
+This repository contains the code and data files for the DataCamp project "What and Where are the World's Oldest Businesses" from the Data Science with Python Track. The project involves exploring and analyzing data on some of the world's oldest businesses, utilizing datasets from BusinessFinancing.co.uk.
 
-This repository contains Python code for analyzing business data using the pandas library. The code performs various operations such as data loading, sorting, merging, filtering, and aggregation to derive meaningful insights from the provided datasets.
+## Project Overview
 
-## Overview
+The "What and Where are the World's Oldest Businesses" DataCamp project focuses on several key tasks, including:
 
-The code aims to analyze various aspects of business data, including their founding years, categories, and global distribution. By utilizing pandas, the code efficiently processes and manipulates the datasets, allowing for the extraction of valuable information regarding the oldest businesses globally and their categorization based on different criteria.
+1. Merging the different datasets to create a comprehensive dataset containing information on the name, founding year, industry, and country of each business.
+2. Sorting the dataset by the founding year, from the oldest to the newest, to identify the most historically significant businesses.
+3. Identifying the oldest businesses within each industry and country, shedding light on the longevity of various sectors and regions.
+4. Analyzing the dataset to uncover trends and patterns, providing valuable insights into the historical and economic significance of these enduring businesses.
+
+The project serves as an excellent introduction to utilizing Python for data science purposes. It covers various essential topics, including data cleaning, data manipulation, and data visualization.
+
+## Project Structure
+
+The project's repository is organized as follows:
+
+- `data/`: Directory containing the datasets used in the analysis.
+- `notebooks/`: Directory containing Jupyter Notebooks with the code and analysis for the project.
+- `results/`: Directory containing any output or results generated during the analysis.
 
 ## Getting Started
 
